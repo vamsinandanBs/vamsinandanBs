@@ -63,7 +63,7 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="Vamsinandan B S's GitHub Stats" src="https://github-readme-stats.vamsinandanBs.vercel.app/api?username=vamsinandanBs&show_icons=true&hide_border=true" />
+  <img align="left" alt="Vamsinandan B S's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=vamsinandanBs&show_icons=true&hide_border=true" />
  
 
 </details>
