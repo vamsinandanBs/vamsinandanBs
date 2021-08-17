@@ -64,12 +64,7 @@
   <summary>:zap: GitHub Stats</summary>
 
   <img align="left" alt="Vamsinandan B S's GitHub Stats" src="https://github-readme-stats.vamsinandanBs.vercel.app/api?username=vamsinandanBs&show_icons=true&hide_border=true" />
-  <a href="https://github.com/vamsinandanBs/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vamsinandanBs&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/vamsinandanBs/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vamsinandanBs&repo=convoychat" />
-</a>
+ 
 
 </details>
 
