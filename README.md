@@ -74,9 +74,7 @@
 
 [website]: https://vamsinandanbs-portfolio.herokuapp.com/
 [course]: https://drive.google.com/drive/folders/1iIwLQLi-75_DvUL4ujQzDzFeLeLI2DAL?usp=sharing
-[twitter]: https://twitter.com/BVamsinandan?s=09
 [youtube]: https://vamsinandanbs-portfolio.herokuapp.com/
-[instagram]: https://instagram.com/vamsinandanbs_1428
 [linkedin]: https://linkedin.com/in/vamsinandan-b-s-1560a61a0
 [webdevplaylist]: https://vamsinandanbs-portfolio.herokuapp.com/
 [jsplaylist]: https://vamsinandanbs-portfolio.herokuapp.com/
