@@ -5,9 +5,9 @@
 ## I'm a  Developer, Good learner, and Coder!!
 
 - 🔭 I'm computer Science Engineering  Student : 
-- 🌱 I’m currently learning everything and applying it 
+- 🌱 I’m learning it and applying it 
 - 👯  “Coming together is a beginning. Keeping together is progress. Working together is success. 
-- 🥅 2022 Goals: want to explore and work on good projects 
+- 🥅 Goals: want to explore and work on good projects 
 - ⚡ hobbies - projects|courses|watching cricket|playing games|
 
 ### Connect with me:
